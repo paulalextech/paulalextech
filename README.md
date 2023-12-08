@@ -8,7 +8,7 @@ from the ground up, from sketching out all the way to solving real life problems
 
 ---
 
-### Langauges and tools
+### Langauges and Tools
 
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
