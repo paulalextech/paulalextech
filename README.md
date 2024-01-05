@@ -1,6 +1,6 @@
 # :rocket: Paul Alex
 
-**`Software Developer/Node enthusiast/Data Nerd`**
+**`Software Developer(Node enthusiast, Data & Space Nerd)`**
 
 
 I'm a full-stack develper focused on Back-end Development. All projects are designed and developed
@@ -19,6 +19,9 @@ from the ground up, from sketching out all the way to solving real life problems
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<br />
+<br />
 
 ---
 
