@@ -29,8 +29,8 @@ from the ground up, from sketching out all the way to solving real life problems
 ### 🏴‍☠️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST-START -->
-- [A Guide To Maintaining A Personal  &amp; Website] (https://www.linkedin.com/pulse/guide-maintaining-personal-website-paul-alex--qe8je%3FtrackingId=y6Z2qqIjS5qd1QB7FTKtLg%253D%253D/?trackingId=y6Z2qqIjS5qd1QB7FTKtLg%3D%3D)
-  > 💻 TO ADD SOME DELICIOUS BLOG ANTICS
-   <br />
+- [A Guide To Maintaining A Personal  &amp; Website]
+  <br /> (https://www.linkedin.com/pulse/guide-maintaining-personal-website-paul-alex--qe8je%3FtrackingId=y6Z2qqIjS5qd1QB7FTKtLg%253D%253D/?trackingId=y6Z2qqIjS5qd1QB7FTKtLg%3D%3D)
+  <br />
 
 <!-- BLOG-POST-LIST-END -->
