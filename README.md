@@ -26,7 +26,7 @@ from the ground up, from sketching out all the way to solving real life problems
 
 ---
 
-### 🏴‍☠️ Blog Posts
+### 🏴‍☠️ Overview Of Some Of My Projects
 
 <!-- BLOG-POST-LIST-START -->
 
