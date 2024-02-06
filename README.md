@@ -32,3 +32,4 @@ from the ground up, from sketching out all the way to solving real life problems
 
 
 <!-- BLOG-POST-LIST-END -->
+![project exmaples](https://github.com/paulalextech/paulalextech/assets/113057265/22648e24-6131-46c0-ba13-0546894fc181)
