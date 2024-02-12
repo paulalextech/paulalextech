@@ -1,9 +1,9 @@
 # :rocket: Paul Alex
 
-**`Software Developer(Node enthusiast, Data & Space Nerd)`**
+**`Software Developer [ ReactJS | NodeJS | GraphQL | JavaScript | Tailwind | APIs | Git | `**
 
 
-I'm a full-stack develper focused on Back-end Development. All projects are designed and developed
+Bilingual Software Developer. All projects are designed and developed
 from the ground up, from sketching out all the way to solving real life problems with code.
 
 ---
