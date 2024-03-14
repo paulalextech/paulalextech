@@ -1,6 +1,6 @@
 # :rocket: Paul Alex
 
-**`Software Developer [ ReactJS | NodeJS | GraphQL | JavaScript | Tailwind | APIs | Git | `**
+**`Software Developer [ ReactJS | NodeJS | TypeScript | GraphQL | NextJS | Tailwind | Git | Express | MongoDB `**
 
 
 Bilingual Software Developer. All projects are designed and developed
