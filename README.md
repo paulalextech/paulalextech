@@ -10,7 +10,7 @@ from the ground up, from sketching out all the way to solving real life problems
 
 ### Langauges and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,graphql,nextjs,tailwind,git,express,mongodb,java)](https://skillicons.dev)
 <br />
 <br />
 
