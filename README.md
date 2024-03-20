@@ -3,7 +3,7 @@
 **`Software Developer [ ReactJS | NodeJS | TypeScript | GraphQL | NextJS | Tailwind | Git | Express | MongoDB `**
 
 
-Bilingual Full-Stack Software Developer. All projects are designed and developed
+Full-Stack Software Developer. All projects are designed and developed
 from the ground up, from sketching out all the way to solving real life problems with code.
 
 ---
