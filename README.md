@@ -1,6 +1,6 @@
 # :rocket: Paul Alex
 
-**`Software Developer [ ReactJS | NodeJS | TypeScript | GraphQL | NextJS | Tailwind | Git | Express | MongoDB `**
+**`Software Developer [ ReactJS | C# | NodeJS | TypeScript | NextJS | Tailwind | Git | Express | MongoDB `**
 
 
 Full-Stack Software Developer. All projects are designed and developed
@@ -10,7 +10,7 @@ from the ground up, from sketching out all the way to solving real life problems
 
 ### Langauges and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,graphql,nextjs,tailwind,git,express,mongodb,java,vue,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,c#,nodejs,ts,graphql,nextjs,tailwind,git,express,mongodb,java,vue,python)](https://skillicons.dev)
 <br />
 <br />
 
