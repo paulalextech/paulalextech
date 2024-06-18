@@ -1,10 +1,10 @@
 # :rocket: Paul Alex
 
-**`Software Developer [ ReactJS | C# | NodeJS | TypeScript | NextJS | Tailwind | Git | Express | MongoDB `**
+**`Software Developer [ React | JavaScript | C# | .NET | NodeJS | TypeScript | Tailwind | Git | Express | MongoDB `**
 
 
-Full-Stack Software Developer. All projects are designed and developed
-from the ground up, from sketching out all the way to solving real life problems with code.
+Software Developer. All projects are designed and developed
+from the ground up, from designing all the way to through the development cycle to solving real life problems with code.
 
 ---
 
