@@ -1,6 +1,6 @@
 # :rocket: Paul Alex
 
-**`Software Developer [ React | JavaScript | C# | .NET | NodeJS | TypeScript | Tailwind | Git | Express | MongoDB `**
+**`Software Developer [ React | Svelte | JavaScript | C# | .NET | NodeJS | TypeScript | Tailwind | Git | Express | MongoDB `**
 
 
 Software Developer. All projects are designed and developed
