@@ -10,7 +10,7 @@ from the ground up, from designing all the way to through the development cycle 
 
 ### Langauges and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,svelte,nodejs,ts,nextjs,tailwind,git,express,mongodb,java,vue,python,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,svelte,c#,nodejs,ts,nextjs,tailwind,git,express,mongodb,vue,python)](https://skillicons.dev)
 <br />
 <br />
 
